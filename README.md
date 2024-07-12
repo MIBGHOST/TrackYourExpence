@@ -29,10 +29,7 @@ Installation
 
 Clone the repository: 
         
-    git clone https://github.com/MIBGHOST/ExpenseTracker.git
-
-sh 
-        
+    git clone https://github.com/MIBGHOST/ExpenseTracker.git 
     cd ExpenseTracker
 
 Configure MongoDB:
@@ -45,13 +42,9 @@ properties
 
 Build the project:
 
-sh
-    
     mvn clean install
     
 Run the application:
-    
-sh
 
     mvn spring-boot:run
 
