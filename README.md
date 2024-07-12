@@ -1,6 +1,7 @@
 ExpenseTracker
 
 ExpenseTracker is an application designed to manage and track expenses. This project is bootstrapped with Spring Boot and utilizes a microservice architecture. It includes a user authentication service implemented using Spring Security with JWT (JSON Web Token) and Spring Data MongoDB. The application provides APIs for user registration, login, token verification, and CRUD operations for users.
+
 Table of Contents
 
     Getting Started
