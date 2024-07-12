@@ -1,0 +1,14 @@
+#application name
+spring:
+  application:
+    name: user-auth-service
+
+  #mongodb
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/
+      database: user-auth-db
+
+#port no
+server:
+  port: 8080
