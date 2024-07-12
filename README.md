@@ -27,11 +27,13 @@ Before you begin, ensure you have the following installed on your machine:
 
 Installation
 
-    Clone the repository: 
-        git clone https://github.com/MIBGHOST/ExpenseTracker.git
+Clone the repository: 
+        
+    git clone https://github.com/MIBGHOST/ExpenseTracker.git
 
-    sh 
-        cd ExpenseTracker
+sh 
+        
+    cd ExpenseTracker
 
 Configure MongoDB:
             
@@ -43,13 +45,13 @@ properties
 
 Build the project:
 
-    sh
+sh
     
     mvn clean install
     
-    Run the application:
+Run the application:
     
-    sh
+sh
 
     mvn spring-boot:run
 
